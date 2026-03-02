@@ -1,0 +1,10 @@
+{
+  "name": "personal-injury-paralegal",
+  "version": "1.0.1",
+  "description": "Personal injury law firm paralegal assistant. Drafts demand letters by gathering case data from Clio Manage, filling templates, sending via Gmail, and initiating follow-up calls via Retell.",
+  "author": {
+    "name": "Swans.co"
+  },
+  "keywords": ["legal", "personal-injury", "demand-letter", "clio-manage", "paralegal"],
+  "license": "UNLICENSED"
+}
